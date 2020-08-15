@@ -1,0 +1,11 @@
+baseURL = "https://lgqm.halu.lu/"
+languageCode = "zh-cn"
+title = "临高启明公开图书馆"
+theme = "lgqm"
+hasCJKLanguage = true
+enableGitInfo = true
+disableKinds = ["taxonomy", "term"]
+
+[outputs]
+  section = ["JSON"]
+  home = ["JSON"]

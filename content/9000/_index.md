@@ -1,6 +1,6 @@
 ---
 title: 图书馆指南
-aid: "0000"
+aid: "9000"
 author: Halulu
 tags:
 ---

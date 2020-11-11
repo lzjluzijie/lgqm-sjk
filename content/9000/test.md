@@ -1,5 +1,5 @@
 ---
-aid: "0000"
+aid: "9000"
 zid: "test"
 title: 测试
 author: Halulu
